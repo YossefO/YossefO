@@ -1,5 +1,5 @@
 ### Hi👋 I'm Yossef
-Welcome;I know it' small, but I don't care
+Welcome;I know it small, but I don't care
 
 
 
