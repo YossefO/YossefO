@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yossefo&label=Profile%20views&color=0e75b6&style=flat" alt="yossefo" /> </p>
 
+![snake gif](https://raw.githubusercontent.com/akshaynarisetti/akshaynarisetti/output/github-contribution-grid-snake.svg)
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yossefo" alt="yossefo" /></a> </p>
 
 - 🌱 I’m currently learning **AI**
